@@ -1,0 +1,2 @@
+white nums: 1000000
+keys not found: 367296
